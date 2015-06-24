@@ -1,5 +1,5 @@
-# my_vimrc
-win7 and ubuntu vim setting
+# vimrc
+this is just a backup of my vim setting.
     
     .vimrc used for ubuntu
     _vimrc used for win7
